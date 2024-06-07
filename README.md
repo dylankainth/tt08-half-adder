@@ -2,6 +2,8 @@
 
 # Tiny Tapeout Wokwi Project Template
 
+A quick half-adder tt08 circuit 
+
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?
